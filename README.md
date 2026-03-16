@@ -98,3 +98,5 @@ Wyjaśnienie: Rekrystalizacja to proces oczyszczania substancji stałych. Polega
 Wyjaśnienie: Eksykator to szczelne naczynie laboratoryjne zawierające środek suszący (np. żel krzemionkowy), służące do przechowywania i suszenia substancji w atmosferze wolnej od wilgoci, często pod zmniejszonym ciśnieniem. Suszenie do stałej masy oznacza suszenie, aż kolejne ważenia produktu nie wykażą dalszej utraty masy, co świadczy o całkowitym usunięciu rozpuszczalnika.
 
 ```
+
+By: Lunafreya Gemini & Krzysztof Promyk.

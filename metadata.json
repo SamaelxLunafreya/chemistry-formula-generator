@@ -1,0 +1,5 @@
+{
+  "name": "Generator Instrukcji Chemicznych",
+  "description": "Zaawansowany generator instrukcji syntezy chemicznej krok po kroku. Wprowadź nazwę związku chemicznego, aby otrzymać szczegółową procedurę, listę odczynników i sprzętu, wraz z kluczowymi ostrzeżeniami dotyczącymi bezpieczeństwa.",
+  "requestFramePermissions": []
+}
